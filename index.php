@@ -202,7 +202,7 @@
 
                 </div>
             </div>
-            <div class="platform row">
+            <!-- <div class="platform row">
                 <div class="col-md-6 col-sm-12 text-right">
                     <div class="desktop shadow-lg">
                         <div class="d-flex flex-row justify-content-center">
@@ -254,7 +254,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
         <!-- SECTION 3 FINISH -->
